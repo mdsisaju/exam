@@ -1,0 +1,98 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 960px;
+}
+.wrapper{
+	/*border: 2px solid red;*/
+	overflow: hidden;
+}
+.left{
+	float: left;
+	margin-left:35px;
+}
+.right{
+	float: right;
+	margin-right: 35px;
+}
+.box1{
+	/*border:2px solid black;*/
+	width: 400px;
+	height: 200px;
+}
+.box1 img{
+	margin-left:42.5%;
+	margin-top: 8px;
+}
+.box1 p{
+	text-align: center;
+}
+.box2{
+	/*border:2px solid red;*/
+	width: 400px;
+	height: 200px;
+	overflow:hidden;
+}
+.lopa{
+	width: 100%;
+}
+.lopa img{
+	float: left;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.lopa p{
+	float: left;
+	margin-top: 25px;
+	margin-left: 10px;
+}
+.lopa hr{
+	float: left;
+	width: 75px;
+	margin-top: 34px;
+	margin-left: 20px;
+	color: blue;
+}
+.cntr1{
+	margin-top: 61px;
+	text-align: center;
+}
+.box3{
+	/*border:2px solid green;*/
+	width: 400px;
+	height: 200px;
+}
+.cntr2{
+	margin-top: 61px;
+	text-align: center;
+}
+
+.box4{
+	/*border:2px solid yellow;*/
+  width: 400px;
+	height: 200px;
+}
+.sqr{
+	border-bottom: 2px dotted red;
+	width: 55%;;
+	height: 20px;
+	text-align: center;
+	margin-left: 22.5%;
+}
+.box5{
+	/*border:2px solid orange;*/
+	width: 400px;
+	height: 300px;
+}
+.box6{
+	/*border:2px solid red;*/
+	width: 400px;
+	height: 300px;
+}
+.box7{
+	/*border:2px solid black;*/
+	width: 400px;
+	height: 204px;
+}
